@@ -17,4 +17,4 @@ Understanding what factors contribute to a song’s popularity has practical sig
 * Item How people’s preferences vary across genres, and
 * Item Any systematic differences in preferences between people who listen to songs on Free Music Archive and the general public.
 
-Read proposal.pdf for the entire project proposal.
+Read INFO 251 - Final Project Proposal_v2-5.pdf for the entire project proposal.
