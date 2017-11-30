@@ -1,3 +1,9 @@
-album_name,duration,popularity,track_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
-Cut To The Feeling,207959,64,Cut To The Feeling,0.696,0.905,2,-2.743,1,0.103,0.011,0.000905,0.302,0.625,114.944
-PRISM (Deluxe),228878,68,Unconditionally,0.555,0.729,7,-4.813,1,0.0387,0.00357,0,0.209,0.369,129.003
+artist_name,album_name,duration,track_popularity,track_name,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,artist_followers,genres,artist_popularity,artist_top_tracks,artist_album_count,album_popularity,release_date
+,,,,,,,,,,,,,,,,,,,,,,
+Carly Rae Jepsen,Cut To The Feeling,207959,64,Cut To The Feeling,0.696,0.905,2,-2.743,1,0.103,0.011,0.000905,0.302,0.625,114.944,2181653,"['canadian pop', 'dance pop', 'indie poptimism', 'pop', 'pop christmas', 'post-teen pop', 'tropical house', 'viral pop']",77,10,5,59,5/26/2017
+,,,,,,,,,,,,,,,,,,,,,,
+Norah Jones,Little Broken Hearts,197733,51,Good Morning,0.361,0.37,5,-9.8,1,0.033,0.914,0.208,0.182,0.114,72.075,1277421,"['adult standards', 'folk christmas', 'folk-pop', 'neo mellow', 'pop christmas', 'pop rock', 'singer-songwriter']",78,10,14,60,4/27/2012
+,,,,,,,,,,,,,,,,,,,,,,
+Adele,25,240426,72,Water Under the Bridge,0.596,0.838,5,-6.52,0,0.0704,0.0189,1.54E-05,0.108,0.472,94.982,7451498,"['dance pop', 'pop', 'post-teen pop']",88,10,4,80,6/24/2016
+,,,,,,,,,,,,,,,,,,,,,,
+Katy Perry,PRISM (Deluxe),228878,68,Unconditionally,0.555,0.729,7,-4.813,1,0.0387,0.00357,0,0.209,0.369,129.003,7643882,"['dance pop', 'pop', 'pop christmas', 'post-teen pop']",90,10,8,75,1/1/2013
